@@ -1,6 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4facfe,100:00f2fe&height=120&section=header&text=Hello Coders &fontSize=40&fontColor=ffffff&animation=fadeIn" />
-            # 👩‍💻 Alaa Khamis | الاء خميس
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=140&section=header&text=Alaa%20Khamis%20|%20%D8%A7%D9%84%D8%A7%D8%A1%20%D8%AE%D9%85%D9%8A%D8%B3&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+
+  <p align="center" style="font-size: 20px; font-weight: bold; margin-top: 8px;">🧕 Alaa Khamis | الاء خميس</p>
+
+  ### Computer Engineering Student | Aspiring AI & Machine Learning Engineer
+</div>
+ء خميس
 ### Computer Engineering Student | Aspiring AI & Machine Learning Engineer
 
 </div>
