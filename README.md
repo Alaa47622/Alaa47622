@@ -1,8 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=140&section=header&text=Alaa%20Khamis%20|%20%D8%A7%D9%84%D8%A7%D8%A1%20%D8%AE%D9%85%D9%8A%D8%B3&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-  <p align="center" style="font-size: 20px; font-weight: bold; margin-top: 8px;">🧕 Alaa Khamis | الاء خميس</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=140&section=header&text=Alaa%20Khamis%20|%20%D8%A7%D9%84%D8%A7%D8%A1%20%D8%AE%D9%85%D9%8A%D8%B3&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+<br/>
+
+<p align="center" style="font-size: 20px; font-weight: bold;">🧕 Alaa Khamis | الاء خميس</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+💻;Aspiring+AI+%26+ML+Engineer+🤖;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%"/>
+
+</div>
   ### Computer Engineering Student | Aspiring AI & Machine Learning Engineer
 </div>
 ء خميس
