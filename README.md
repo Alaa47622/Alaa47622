@@ -15,7 +15,7 @@
 </div>
   ### Computer Engineering Student | Aspiring AI & Machine Learning Engineer
 </div>
-ء خميس
+
 ### Computer Engineering Student | Aspiring AI & Machine Learning Engineer
 
 </div>
