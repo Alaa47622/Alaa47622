@@ -8,6 +8,15 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Code...;Impact...;Repeat...;AI+Engineer+in+Progress🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Impact-ff4b2b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repeat-1fddff?style=for-the-badge"/>
+</p>
 
 ## 🚀 About Me
 
@@ -109,7 +118,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: alaakhamis415@gmail.com  
+- 📧 Email: alaakhamis415@gmail.com
+- linkedin :https://www.linkedin.com/in/alaa-khamees-9419a0213/
 - 💬 Open to **Internships & Collaboration**
 
 ---
@@ -117,5 +127,5 @@
 ## ⚡ Fun Fact
 
 > I love turning complex problems into simple, efficient solutions 🚀
-
+                                    
 ---
