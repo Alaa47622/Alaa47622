@@ -6,7 +6,7 @@
 
 <p align="center" style="font-size: 20px; font-weight: bold;">🧕 Alaa Khamis | الاء خميس</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+💻;Aspiring+AI+%26+ML+Engineer+🤖;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Hi+Coders!+👋;I'm+Alaa+Khamis+🧕;الاء+خميس" alt="Typing SVG" />
 
 <br/>
 
