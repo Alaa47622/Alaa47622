@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=180&section=header&text=Code%20Impact%20Repeat&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Alaa%20Khamis%20|%20AI%20Engineer&descAlignY=55&descSize=20" />
-# 👩‍💻 Alaa Khamis | الاء خميس
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=140&section=header&text=Alaa%20Khamis%20|%20AI%20Engineer&fontSize=38&fontColor=ffffff&animation=twinkling" />
+ # 👩‍💻 Alaa Khamis | الاء خميس
 ### Computer Engineering Student | Aspiring AI & Machine Learning Engineer
 
 </div>
-
----
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Code...;Impact...;Repeat...;AI+Engineer+in+Progress🚀" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Impact-ff4b2b?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Repeat-1fddff?style=for-the-badge"/>
 </p>
+---
 
 ## 🚀 About Me
 
